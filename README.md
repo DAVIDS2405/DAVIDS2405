@@ -22,10 +22,9 @@
 
 <!-- About me -->
 <details open> 
+  <img width="150" alt="GIF" align="right" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/natsu.gif">
   <summary><h2>🌠 About me</h2></summary>
-  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
   <p>I am a software developer, I am passionate about technology, and I also want to improve and learn technologies that allow me to perform better in my career.</p>
-  
 </details>
 
 
