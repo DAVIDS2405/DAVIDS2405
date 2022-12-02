@@ -7,15 +7,27 @@
 
 
 <!-- Icons -->
-<p align="center">
-  <a href='https://www.linkedin.com/in/rahul-jha98/'><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='30px'/></a>
-  <a href='https://www.linkedin.com/in/rahul-jha98/'><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='30px'/></a>
-  <a href='https://www.linkedin.com/in/rahul-jha98/'><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='30px'/></a>
- 
+<p align = "center">
+  <!-- Linkedin -->
+  <a href = 'https://www.linkedin.com/in/david-basantes-40bb97216/'><img alt = "linkedin" title= "Linkedin" src = "https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/linkedin.png" height = '45px'/></a>
+  <!-- Youtube -->
+  <a href = 'https://www.youtube.com/@d4vid924'><img alt="youtube" title= "Youtube" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/youtube.webp" height='45px'/></a>
+   <!-- Twitch -->
+  <a href='https://www.twitch.tv/david2405s'><img alt="twitch" title= "Twitch" src="https://github.com/DAVIDS2405/DAVIDS2405/blob/main/assets/twitch.png?raw=true" height='45px'/></a>
+  <!-- Instagram -->
+  <a href='https://www.instagram.com/david2405s/'><img alt="instagram" title = "Instagram" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/instagram.png" height='45px'/></a>
+  <!-- Discord -->
+  <a href='https://discord.gg/A8Uh2wsDSv'><img alt="discord" title = "Discord" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/discord.png" height='45px'/></a>
 </p>
 
+<!-- About me -->
+<details open> 
+  <summary><h2>🌠 About me</h2></summary>
+  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+  <p>I am a software developer, I am passionate about technology, and I also want to improve and learn technologies that allow me to perform better in my career.</p>
+  
+</details>
 
-<!-- Image -->
 
 
 
@@ -23,10 +35,12 @@
 
 
 
-<!--Contac -->
+
+
+<!--presentation in bash -->
 ```bash 
  #!/bin/bash
- echo "Hack mode"
+ echo "Hack mode and welcome to my Github"
 ```
 
 
