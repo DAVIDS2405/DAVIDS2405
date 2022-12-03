@@ -25,7 +25,6 @@
   
   <summary><h2>🌠About me</h2></summary>
   <img width="150" alt="GIF" align="right" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/natsu.gif">
-  <h3>Porfolio</h3>
   <p>
     <a href = "https://davids2405.github.io/Portfolio/"> 
       <img src="https://img.shields.io/badge/Porfolio-ff0000?&style=for-the-badge&logoColor=white" />
