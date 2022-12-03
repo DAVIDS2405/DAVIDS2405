@@ -22,28 +22,54 @@
 
 <!-- About me -->
 <details open> 
+  
+  <summary><h2>🌠About me</h2></summary>
   <img width="150" alt="GIF" align="right" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/natsu.gif">
-  <summary><h2>🌠 About me</h2></summary>
-  <p>I am a software developer, I am passionate about technology, and I also want to improve and learn technologies that allow me to perform better in my career.</p>
+  <h3>Porfolio</h3>
+  <p>
+    <a href = "https://davids2405.github.io/Portfolio/"> 
+      <img src="https://img.shields.io/badge/Porfolio-ff0000?&style=for-the-badge&logoColor=white" />
+    </a>
+  </p>
+  <h3>Hobbies</h3>
+  <li>See anime</li>
+  <li>Do direct in twitch and youtube</li>
+  <li>Play videogames</li>
+  <li>Practice in hackthebox</li>
+  <li>Listen to music</li>
+  
 </details>
-
-
-
-
-
-
-
-
-
+</br>
+</br>
 
 <!--presentation in bash -->
 ```bash 
  #!/bin/bash
  echo "Hack mode and welcome to my Github"
 ```
+</br>
+</br>
 
+<details open> 
+  <summary><h2>Knowledge</h2></summary>
+  <p aling = "center">
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-ff0000?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000000?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-800080?&style=for-the-badge&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/Linux-e06b12?&style=for-the-badge&logo=linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/Windows-87ceeb?&style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/Git-800080?&style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
+  </p>
 
-
+</details>
+</br>
+</br>
 <!--Github stats -->
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats">
