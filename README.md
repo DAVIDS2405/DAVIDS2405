@@ -5,7 +5,6 @@
   </a>
 </p>
 
-
 <!-- Icons -->
 <p align = "center">
   <!-- Linkedin -->
@@ -23,7 +22,7 @@
 </p>
 
 <!-- About me -->
-<details open> 
+<details open>
   
   <summary><h2>🌠About me</h2></summary>
   <img width="150" alt="GIF" align="right" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/natsu.gif">
@@ -31,7 +30,7 @@
   I have been a professional software developer for one year..
   </p>
   <p>
-    <a href = "https://david-dev.dev"> 
+    <a href = "https://david-dev.dev">
       <img src="https://img.shields.io/badge/Porfolio-ff0000?&style=for-the-badge&logoColor=white" />
     </a>
   </p>
@@ -47,14 +46,16 @@
 </br>
 
 <!--presentation in bash -->
-```bash 
+
+```bash
  #!/bin/bash
  echo "Hack mode and welcome to my Github"
 ```
+
 </br>
 </br>
 
-<details open> 
+<details open>
   <summary><h2>Knowledge</h2></summary>
   <p aling = "center">
   <!-- HTML -->
@@ -76,9 +77,8 @@
    <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" />
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" />
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" />
-   
+
   </p>
-  
 
 </details>
 </br>
@@ -115,18 +115,12 @@
 </details>
 </br>
 <!--Github stats -->
-<p align="center" > 
+<p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img  src="https://github-readme-stats.vercel.app/api?username=DAVIDS2405&&show_icons=true&&count_private=true&&bg_color=000000&&text_color=E02C2C&&icon_color=F1F1F1&&border_color=BC020A&&border_radius=5&&title_color=F1F1F1"/>
   </a>
 
-  
 </p>
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDS2405&layout=compact"/>
 </p>
-
-
-
-
-
