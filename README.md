@@ -80,7 +80,7 @@
 
   </p>
 
-</details>
+</details open>
 </br>
 <details>
  <summary>
