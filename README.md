@@ -9,7 +9,7 @@
 <!-- Icons -->
 <p align = "center">
   <!-- Linkedin -->
-  <a href = 'https://www.linkedin.com/in/david-basantes-40bb97216/'><img alt = "linkedin" title= "Linkedin" src = "https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/linkedin.png" height = '45px'/></a>
+  <a href = 'https://www.linkedin.com/in/david-sebastian-basantes-lucero-40bb97216/'><img alt = "linkedin" title= "Linkedin" src = "https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/linkedin.png" height = '45px'/></a>
   <!-- Youtube -->
   <a href = 'https://www.youtube.com/@d4vid924'><img alt="youtube" title= "Youtube" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/youtube.webp" height='45px'/></a>
    <!-- Twitch -->
