@@ -80,9 +80,9 @@
 
   </p>
 
-</details open>
+</details >
 </br>
-<details>
+<details open>
  <summary>
   <h2>Community</h2>
  </summary>
