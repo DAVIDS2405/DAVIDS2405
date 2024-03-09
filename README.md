@@ -28,7 +28,10 @@
   <summary><h2>🌠About me</h2></summary>
   <img width="150" alt="GIF" align="right" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/natsu.gif">
   <p>
-    <a href = "https://davids2405.github.io/Portfolio/"> 
+  Soy  desarrollador de software profesional desde hace un año.
+  </p>
+  <p>
+    <a href = "https://david-dev.dev"> 
       <img src="https://img.shields.io/badge/Porfolio-ff0000?&style=for-the-badge&logoColor=white" />
     </a>
   </p>
@@ -66,16 +69,61 @@
    <img src="https://img.shields.io/badge/Windows-87ceeb?&style=for-the-badge&logo=windows&logoColor=white" />
    <img src="https://img.shields.io/badge/Git-800080?&style=for-the-badge&logo=git&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoColor=white&labelColor=101010" />
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010" />
+   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010" />
+   <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" />
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" />
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" />
+   
   </p>
+  
 
 </details>
 </br>
+<details>
+ <summary>
+  <h2>Community</h2>
+ </summary>
+  <p aling = "center">
+  <a href="https://youtube.com/@d4vid924">
+   <img src="https://img.shields.io/badge/YouTube-David-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010"
+  />
+  </a>
+  <a href="https://www.twitch.tv/david2405s">
+   <img src="https://img.shields.io/badge/Twitch-David-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010"
+  />
+  </a>
+  <a href="https://www.instagram.com/david2405s">
+   <img src="https://img.shields.io/badge/Instagram-@david2405s-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010"
+  />
+  </a>
+ <a href="https://www.tiktok.com/@davids2405">
+   <img src="https://img.shields.io/badge/TikTok-@davids2405-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010"
+  />
+  </a>
+ <a href="https://www.linkedin.com/in/david-sebastian-basantes-lucero-40bb97216/">
+   <img src="https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"
+  />
+  </a>
+  <a href="mailto:sebastian2405lucero@hotmail.com">
+   <img src="https://img.shields.io/badge/sebastian2405lucero@hotmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010"
+  />
+  </a>
+
+</details>
 </br>
 <!--Github stats -->
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img  src="https://github-readme-stats.vercel.app/api?username=DAVIDS2405&&show_icons=true&&count_private=true&&bg_color=000000&&text_color=E02C2C&&icon_color=F1F1F1&&border_color=BC020A&&border_radius=5&&title_color=F1F1F1"/>
   </a>
+
+  
+</p>
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDS2405&layout=compact"/>
 </p>
 
 
