@@ -104,7 +104,7 @@
   />
   </a>
  <a href="https://www.linkedin.com/in/david-sebastian-basantes-lucero-40bb97216/">
-   <img src="https://img.shields.io/badge/LinkedIn-Davi_Basantes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"
+   <img src="https://img.shields.io/badge/LinkedIn-David_Basantes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"
   />
   </a>
   <a href="mailto:sebastian2405lucero@hotmail.com">
