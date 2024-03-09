@@ -28,7 +28,7 @@
   <summary><h2>🌠About me</h2></summary>
   <img width="150" alt="GIF" align="right" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/natsu.gif">
   <p>
-  Soy  desarrollador de software profesional desde hace un año.
+  I have been a professional software developer for one year..
   </p>
   <p>
     <a href = "https://david-dev.dev"> 
@@ -115,7 +115,7 @@
 </details>
 </br>
 <!--Github stats -->
-<p align="center" >  
+<p align="center" > 
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img  src="https://github-readme-stats.vercel.app/api?username=DAVIDS2405&&show_icons=true&&count_private=true&&bg_color=000000&&text_color=E02C2C&&icon_color=F1F1F1&&border_color=BC020A&&border_radius=5&&title_color=F1F1F1"/>
   </a>
