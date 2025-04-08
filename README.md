@@ -78,7 +78,11 @@
    <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" />
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" />
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" />
-
+   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010"/>
+   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010"/>
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010"/>
+   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=101010"/>
+   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010"/>
   </p>
 
 </details >
@@ -100,11 +104,11 @@
    <img src="https://img.shields.io/badge/Instagram-@david2405s-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010"
   />
   </a>
- <a href="https://www.tiktok.com/@davids2405">
+ <a href="https://www.tiktok.com/@david2405s">
    <img src="https://img.shields.io/badge/TikTok-@davids2405-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010"
   />
   </a>
- <a href="https://www.linkedin.com/in/david-sebastian-basantes-lucero-40bb97216/">
+ <a href="www.linkedin.com/in/davids-dev">
    <img src="https://img.shields.io/badge/LinkedIn-David_Basantes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"
   />
   </a>
