@@ -18,7 +18,7 @@
   <!-- Discord -->
   <a href='https://discord.gg/A8Uh2wsDSv'><img alt="discord" title = "Discord" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/discord.png" height='45px'/></a>
   <!-- Tiktok -->
-  <a href='https://www.tiktok.com/@davids2405'><img alt="tiktok" title = "Tiktok" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/Tiktok.png" height='45px'/></a>
+  <a href='https://www.tiktok.com/@david2405s'><img alt="tiktok" title = "Tiktok" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/Tiktok.png" height='45px'/></a>
 </p>
 
 <!-- About me -->
