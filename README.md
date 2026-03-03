@@ -122,11 +122,5 @@
 </br>
 <!--Github stats -->
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img  src="https://github-readme-stats.vercel.app/api?username=DAVIDS2405&&show_icons=true&&count_private=true&&bg_color=000000&&text_color=E02C2C&&icon_color=F1F1F1&&border_color=BC020A&&border_radius=5&&title_color=F1F1F1"/>
-  </a>
-
-</p>
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDS2405&layout=compact"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DAVIDS2405&theme=dark" alt="GitHub Streak" /></a>
 </p>
