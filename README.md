@@ -1,8 +1,9 @@
 <!-- Presentation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nerd+Fonts&pause=1000&color=FF0000&center=true&  vCenter=true&width=435&height=53&lines=Software+development;Ethical+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Software+development;Ethical+Hacker" alt="Typing SVG" />
   </a>
+  
 </p>
 
 <!-- Icons -->
@@ -27,7 +28,7 @@
   <summary><h2>🌠About me</h2></summary>
   <img width="150" alt="GIF" align="right" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/natsu.gif">
   <p>
-  I have been a professional software developer for one year..
+  I have been a professional software developer more than 3 years..
   </p>
   <p>
     <a href = "https://david-dev.dev">
