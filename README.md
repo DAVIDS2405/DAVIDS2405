@@ -1,7 +1,7 @@
 <!-- Presentation -->
 <p align = "center" >
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Software+development;Ethical+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=F70000&width=435&lines=Software+development;Ethical+Hacker" alt="Typing SVG" />
   </a>
   
 </p>
