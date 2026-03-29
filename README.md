@@ -1,10 +1,10 @@
 <!-- Presentation -->
-<div align = "center" direcction="flex" >
+<p align = "center" >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Software+development;Ethical+Hacker" alt="Typing SVG" />
   </a>
   
-</div>
+</p>
 
 <!-- Icons -->
 <p align = "center">
